@@ -1,6 +1,6 @@
-# -WebCrawler-
+# WebCrawler
 Sample WebCrawler and email finder 
-# To_do_list:
+## To_do_list:
 - Tentar implementar multi threading, uma thread pra cada url na função emailfinder ou nao
 - Implementar receber uma lista com links
 -  Implementar beatifulsoap. html parsing [ RUNNING ] 
